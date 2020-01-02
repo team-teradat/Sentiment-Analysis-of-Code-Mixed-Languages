@@ -1,12 +1,12 @@
 # Sentiment-Analysis-of-Code-Mixed-Languages
-Solution for Smart India Hackathon-MU455
+Solution for Smart India Hackathon-__MU455__
 
 
-Team Teradat:
+__Team Teradat:__
 
-Bishal Pattanaik\
-Karnakar Reddy Asireddy
-Anirudh RVS
-Pandu Vardhan
-Chamanti A
-Bhargav
+_Bishal Pattanaik\
+Karnakar Reddy Asireddy\
+Anirudh RVS\
+Pandu Vardhan\
+Chamanti A\
+Bhargav_
